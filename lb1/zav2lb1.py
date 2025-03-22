@@ -7,11 +7,12 @@
 stockpile = {
     "apples": 100,
     "bananas": 1,
-    "batteries": 7,
+    "batteries": 3,
     "cards": 7,
     "jam": 2
 }
 
+# Функція для оновлення кількості продуктів
 def update_stockpile(product, quantity):
     if product in stockpile:
         stockpile[product] += quantity
