@@ -40,8 +40,8 @@ if __name__ == "__main__":
     # Check if a file path was provided as an argument
 
     if len(sys.argv) < 2:
-        print("Usage: python log_analyzer.py <path_to_log_file>")
-        print("Example: python log_analyzer.py apache_logs.txt")
+        print("Usage: python lb3z1.py <path_to_log_file>")
+        print("Example: python lb3z1.py apache_logs.txt")
         sys.exit(1)
     
     log_file = sys.argv[1]
