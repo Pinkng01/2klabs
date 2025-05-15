@@ -37,8 +37,8 @@ def generate_file_hashes(*file_paths):
 if __name__ == "__main__":
     
     if len(sys.argv) < 2:
-        print("Usage: python file_hasher.py <file1> [file2] [file3] ...")
-        print("Example: python file_hasher.py document.txt image.jpg")
+        print("Usage: python lb3z2.py <file1> [file2] [file3] ...")
+        print("Example: python lb3z2.py document.txt image.jpg")
         sys.exit(1)
     
     files_to_hash = sys.argv[1:]

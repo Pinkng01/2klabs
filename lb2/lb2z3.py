@@ -47,8 +47,8 @@ if __name__ == "__main__":
     
     
     if len(sys.argv) != 3:
-        print("Usage: python ip_filter.py <input_log_file> <output_results_file>")
-        print("Example: python ip_filter.py access.log ip_counts.txt")
+        print("Usage: python lb3z3.py <input_log_file> <output_results_file>")
+        print("Example: python lb3z3.py access.log ip_counts.txt")
         sys.exit(1)
     
     input_file = sys.argv[1]
