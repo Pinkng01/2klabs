@@ -1,0 +1,100 @@
+Jun 04 12:08:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.252 port 22 ssh2
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.228
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+03/06/2025 19:32:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-04 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+[04/Jun/2025:03:55:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.140
+04/06/2025 00:43:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-03 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.181
+Jun 04 16:19:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.56 port 22 ssh2
+2025-06-03 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.38
+2025-06-03 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+2025-06-03 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.74
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.7
+Jun 04 04:31:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.113 port 22 ssh2
+2025-06-04T11:27:23 WARNING: Suspicious connection attempts from 192.168.1.87
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+2025-06-04 04:16:23 INFO: User admin successfully logged in from 192.168.1.249
+2025-06-04T16:03:23 WARNING: Suspicious connection attempts from 192.168.1.45
+2025-06-03 10:32:45 WARN: Port scan detected from 192.168.1.130
+Jun 04 02:39:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.190 port 22 ssh2
+Jun 04 15:18:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.4 port 22 ssh2
+2025-06-03 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+2025-06-04T14:05:23 WARNING: Suspicious connection attempts from 192.168.1.192
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.80
+2025-06-03 10:32:45 WARN: Port scan detected from 192.168.1.159
+Jun 04 02:24:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.4 port 22 ssh2
+Jun 04 07:02:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.203 port 22 ssh2
+Jun 04 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+2025-06-04T11:40:23 WARNING: Suspicious connection attempts from 192.168.1.97
+[03/Jun/2025:20:42:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+2025-06-03T20:46:23 WARNING: Suspicious connection attempts from 192.168.1.156
+2025-06-04T12:29:23 WARNING: Suspicious connection attempts from 192.168.1.238
+2025-06-04 15:39:23 INFO: User admin successfully logged in from 192.168.1.140
+2025-06-04 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+Jun 04 08:28:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.240 port 22 ssh2
+Jun 04 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+2025-06-03 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.136
+2025-06-03 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+2025-06-03T18:22:23 WARNING: Suspicious connection attempts from 192.168.1.87
+2025-06-04 06:57:23 INFO: User admin successfully logged in from 192.168.1.122
+2025-06-04 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+2025-06-03 10:32:45 WARN: Port scan detected from 192.168.1.150
+04/06/2025 12:21:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+Jun 04 09:24:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.118 port 22 ssh2
+2025-06-04 13:35:23 INFO: User admin successfully logged in from 192.168.1.14
+2025-06-04T10:56:23 WARNING: Suspicious connection attempts from 192.168.1.223
+04/06/2025 13:00:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-04T04:19:23 WARNING: Suspicious connection attempts from 192.168.1.161
+04/06/2025 07:50:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+Jun 04 12:55:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.130 port 22 ssh2
+Jun 03 21:11:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.224 port 22 ssh2
+Jun 04 11:42:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.89 port 22 ssh2
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.110
+2025-06-04 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+04/06/2025 14:27:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-04T10:01:23 WARNING: Suspicious connection attempts from 192.168.1.114
+2025-06-04 10:32:45 WARN: Port scan detected from 192.168.1.175
+03/06/2025 23:28:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+Jun 04 04:08:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.17 port 22 ssh2
+2025-06-03 10:33:10 CRITICAL: Malware Trojan.Win32.Generic detected on workstation 192.168.1.150
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.25
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+[03/Jun/2025:23:58:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+2025-06-03T23:39:23 WARNING: Suspicious connection attempts from 192.168.1.5
+Jun 04 10:39:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.202 port 22 ssh2
+2025-06-04 17:22:23 INFO: User admin successfully logged in from 192.168.1.155
+2025-06-04 01:33:23 INFO: User admin successfully logged in from 192.168.1.136
+2025-06-04 10:32:45 WARN: Port scan detected from 192.168.1.198
+[04/Jun/2025:09:14:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+2025-06-04T02:23:23 WARNING: Suspicious connection attempts from 192.168.1.130
+Jun 04 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+[03/Jun/2025:21:47:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+2025-06-03 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+04/06/2025 01:58:23 ERROR: Authentication failed for username=administrator from IP=192.168.1.201
+2025-06-04 15:46:23 INFO: User admin successfully logged in from 192.168.1.73
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+Jun 04 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+Jun 04 04:34:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.51 port 22 ssh2
+2025-06-04 10:32:45 WARN: Port scan detected from 192.168.1.55
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+Jun 03 19:37:23 server1 sshd[1234]: Accepted password for admin from 192.168.1.149 port 22 ssh2
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+[04/Jun/2025:16:10:23 +0000] 192.168.1.75 - user1 "GET /admin HTTP/1.1" 200 1234
+2025-06-04 12:19:23 INFO: User admin successfully logged in from 192.168.1.126
+2025-06-03 10:32:45 WARN: Port scan detected from 192.168.1.184
+2025-06-04 10:32:45 WARN: Port scan detected from 192.168.1.220
+Jun 03 11:16:45 server1 sshd[1235]: Failed password for root from 203.0.113.5 port 22 ssh2
+2025-06-04 10:32:45 WARN: Port scan detected from 192.168.1.191
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.248
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+2025-06-04 10:31:12 WARN: Failed login attempt for user guest from 192.168.1.156
+2025-06-04 11:35:40 ALERT: Virus detected: Backdoor.Linux.Mirai on host 192.168.1.88
+2025-06-04 05:14:23 INFO: User admin successfully logged in from 192.168.1.31

@@ -1,7 +1,7 @@
 from typing import List, Dict, Any, Optional
 from datetime import datetime
-from database import SecurityEventsDB
-from log_parser import LogParser, ParsedLogEntry
+from db_mgr import SecurityEventsDB
+from log_manager import LogParser, ParsedLogEntry
 
 class SecurityEventsManager:
     """Основний клас для управління подіями безпеки"""
